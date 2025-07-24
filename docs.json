@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Ecrow Intern Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#2F2F2F",
+    "light": "#4B5563",
+    "dark": "#1F2937"
   },
   "favicon": "/favicon.svg",
   "navigation": {
