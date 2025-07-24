@@ -89,8 +89,8 @@
     }
   },
   "logo": {
-    "light": "/logo/ecrow_main-removebg_1.png",
-    "dark": "/logo/ecrow_main-removebg_1.png"
+    "light": "/logo/ecrow.svg",
+    "dark": "/logo/ecrow.svg"
   },
   "navbar": {
     "links": [
